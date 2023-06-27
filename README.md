@@ -28,7 +28,7 @@ The following deliverables must be submitted upon completion of the project:
 
 ### Source Code
 
-All source code for the site, including both frontend and backend code.
+All source code for the site, including both frontend and backend code in the form of a shared reopsitory with commit history.
 
 ### Testing and Deployment
 
