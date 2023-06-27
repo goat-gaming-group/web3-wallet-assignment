@@ -47,7 +47,10 @@ A technical specification outlining the architecture of the site, including desi
 - [Alchemy](https://www.alchemy.com/) - Web3 development platform that provide a variety of APIs for high-level integration
 - [Next.js](https://nextjs.org/docs) - Documentation for Next.js framework
 - [Vercel](https://vercel.com/docs) - Documentation for Vercel hosting platform (seamless Next.js integration)
-- [Ethereum](https://ethereum.org/en/developers/) - Documentation aimed at developers for the Ethereum blockchain 
+- [Ethereum](https://ethereum.org/en/developers/) - Documentation aimed at developers for the Ethereum blockchain
+- [web3modal](https://web3modal.com/) - Library for simple web3 wallet connection
+- [wagmi](https://wagmi.sh/) - Library of react hooks for interfacing web3 wallets
+- [mui](https://mui.com/) - React component library 
 
 ## Conclusion
 
